@@ -1,3 +1,5 @@
+# 706. Implement HashMap
+
 class MyHashMap(object):
     def __init__(self):
         self.buckets = 1000
